@@ -1,0 +1,11 @@
+C:\Users\merye\OneDrive\Masaüstü\projeler\Rehber\Rehber\bin\Debug\Rehber.exe.config
+C:\Users\merye\OneDrive\Masaüstü\projeler\Rehber\Rehber\bin\Debug\Rehber.exe
+C:\Users\merye\OneDrive\Masaüstü\projeler\Rehber\Rehber\bin\Debug\Rehber.pdb
+C:\Users\merye\OneDrive\Masaüstü\projeler\Rehber\Rehber\obj\Debug\Rehber.csproj.AssemblyReference.cache
+C:\Users\merye\OneDrive\Masaüstü\projeler\Rehber\Rehber\obj\Debug\Rehber.csproj.SuggestedBindingRedirects.cache
+C:\Users\merye\OneDrive\Masaüstü\projeler\Rehber\Rehber\obj\Debug\Rehber.Form1.resources
+C:\Users\merye\OneDrive\Masaüstü\projeler\Rehber\Rehber\obj\Debug\Rehber.Properties.Resources.resources
+C:\Users\merye\OneDrive\Masaüstü\projeler\Rehber\Rehber\obj\Debug\Rehber.csproj.GenerateResource.cache
+C:\Users\merye\OneDrive\Masaüstü\projeler\Rehber\Rehber\obj\Debug\Rehber.csproj.CoreCompileInputs.cache
+C:\Users\merye\OneDrive\Masaüstü\projeler\Rehber\Rehber\obj\Debug\Rehber.exe
+C:\Users\merye\OneDrive\Masaüstü\projeler\Rehber\Rehber\obj\Debug\Rehber.pdb
